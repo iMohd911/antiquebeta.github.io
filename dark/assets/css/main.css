@@ -27,6 +27,11 @@
     font-style:normal
 }
 
+.mode-link {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
 
 html {
     font-family:sans-serif;
