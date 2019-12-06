@@ -1,5 +1,8 @@
 # DewDrop
 
+## v0.0.8
+Adds an out of bounds check for invalid icons.
+
 ## v0.0.7
 Adds a new colour detection method which works with transparent icons (ie; Folds) and adds basic support for lock screen notification banners.
 
