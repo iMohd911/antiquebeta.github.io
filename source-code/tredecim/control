@@ -1,0 +1,9 @@
+Package: com.antique.tredecim
+Name: Tredecim
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Septet successor designed to make navigating the home screen easy and enjoyable.
+Maintainer: Antique
+Author: Antique
+Section: Tweaks
