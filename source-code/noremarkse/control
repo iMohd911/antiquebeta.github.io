@@ -1,0 +1,9 @@
+Package: com.antique.noremarkse
+Name: NoRemarkse (Cydia)
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: You know what this does.
+Maintainer: Antique
+Author: Antique
+Section: Tweaks
